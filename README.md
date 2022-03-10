@@ -1,5 +1,5 @@
  <h1> #EARTH-3050</h1>
- <h2 >Developed by - Digvijay shelar(digvijayshelar@gmail.com)</h2>
+
 
 <p> </p>
 
@@ -16,6 +16,7 @@
 - **Game assets used : 994** 
 - **Character spprites used : 53**
 - **Game based in year 3050 , where aliens have taken over the earth and your moto is to save the earth**
+- **Game's Scratch link: https://scratch.mit.edu/projects/616123894/editor/ to get inside view of code**
  <br>
  <h1>Game Tralier</h1>
  link: https://drive.google.com/file/d/15w4zTL9PdIMy3Xn9rNOItzxX6-3vmtUG/view?usp=sharing
@@ -33,7 +34,9 @@ link: https://drive.google.com/file/d/16IKO14rAX2-PmlrUG_7BLMtgq5eDyxAK/view?usp
 <img align="center" src="https://user-images.githubusercontent.com/82649533/157675202-b7aad9dd-cc52-46d7-8f94-273894ebeb20.jpg" alt="Paris" height="300" width="500">
 <img align="center" src="https://user-images.githubusercontent.com/82649533/157675225-30633753-9eba-44c4-b0ee-f1e0b7bdd163.jpg" alt="Paris" height="300" width="500">
 <img align="left" src="https://user-images.githubusercontent.com/82649533/157675338-ea31d331-279a-42d3-a7a2-a4f5d2278894.jpg" alt="Paris" height="300" width="500">
+<br><br>
 
+<h3 >Developed by - Digvijay shelar(digvijayshelar@gmail.com)</h3>
 
 
 
