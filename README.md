@@ -13,7 +13,7 @@
 - **A game made from [Scratch](https://scratch.mit.edu/about) game engine**
 - **An offline single player game**
 - **Game assets used : 994** 
-- **Character spprites used : 53**
+- **Character sprites used : 53**
 - **Game based in year 3050 , where aliens have taken over the earth and your moto is to save the earth**
 - **Game's Scratch link: https://scratch.mit.edu/projects/616123894/editor/ to get inside view of code**
  <br>
