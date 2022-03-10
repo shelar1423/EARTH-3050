@@ -18,7 +18,7 @@
 - **Game's Scratch link: https://scratch.mit.edu/projects/616123894/editor/ to get inside view of code**
  <br>
  <h1 align="left">OBJECTIVE</H1>
-***DESTROY ALL THE ALIENS IN THE WAY AND ELIMINATE THE FINAL BOSS**
+**DESTROY ALL THE ALIENS IN THE WAY AND ELIMINATE THE FINAL BOSS**
  <h1>Game Tralier</h1>
  link: https://drive.google.com/file/d/15w4zTL9PdIMy3Xn9rNOItzxX6-3vmtUG/view?usp=sharing
  
